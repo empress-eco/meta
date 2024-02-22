@@ -1,10 +1,16 @@
-![Meta Logo](https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png
+<div align="center">
+
+<img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="Logo" width="80" height="80">
 
 # Meta: Power-Up Your Framework
 
 Welcome to Meta, the robust integration tool that supercharges your Framework with the capabilities of Meta's Cloud API. Seamlessly send a variety of WhatsApp messages, including text, media, and template-based messages, and automate welcome messages for new users. 
 
 Explore the [documentation](https://empress.eco/) to learn more about Meta. For bug reporting or feature requests, please visit [this page](https://github.com/empress-eco/meta/issues).
+
+</div>
+
+
 
 ## About Meta Integration
 
